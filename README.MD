@@ -1,5 +1,7 @@
 # Minitalk, a 42 project
 
+![Minitalk](https://github.com/ayogun/42-project-badges/blob/main/covers/cover-minitalk-bonus.png?raw=true)
+
 Minitalk is a C client-server application facilitating inter-process communication through UNIX signals. The communication mechanism involves the client transmitting data to the server using signals, specifically utilizing SIGUSR1 and SIGUSR2.
 
 ## Transmission Process
